@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>Referred_By__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Language__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
