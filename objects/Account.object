@@ -589,6 +589,16 @@
         <fullName>Tier</fullName>
     </fields>
     <fields>
+        <fullName>Time_Zone__c</fullName>
+        <externalId>false</externalId>
+        <label>Time Zone</label>
+        <length>3</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
