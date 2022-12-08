@@ -558,6 +558,16 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>World_Cup_Team__c</fullName>
+        <externalId>false</externalId>
+        <label>World Cup Team</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllContacts</fullName>
         <columns>FULL_NAME</columns>
