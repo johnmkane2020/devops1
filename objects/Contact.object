@@ -434,6 +434,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>NHL__c</fullName>
+        <externalId>false</externalId>
+        <label>NHL</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
