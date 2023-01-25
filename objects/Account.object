@@ -284,6 +284,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>NFL__c</fullName>
+        <externalId>false</externalId>
+        <label>NFL</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
@@ -560,6 +570,16 @@
     <fields>
         <fullName>Site</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Sports__c</fullName>
+        <externalId>false</externalId>
+        <label>Sports</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>State__c</fullName>
